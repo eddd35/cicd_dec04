@@ -1,1 +1,4 @@
 pytest
+python-html
+python-cov
+coverage
